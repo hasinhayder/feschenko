@@ -1,5 +1,5 @@
 
-<h1>Hallo. I'm Kirill & I ❤️ code.</h1>
+<h1>Guten Tag. I'm Kirill & I ❤️ code.</h1>
 <h4>Currently i work at private orders but i always open for cooperation | Read me: <a href="https://twitter.com/kiryssha">Twitter <img src="https://camo.githubusercontent.com/9bbddae7e626bda73c943e06b4568a7a02e193b4/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f747769747465722e737667" width="10"></a></h4>
 <h5>⏰ 22 Thursday, 12:00 | Latest follower – <a href="https://github.com/Ceer19/" target="_blank">maksim_h</a>👋</h5>
 <hr>
@@ -30,9 +30,9 @@
 
 
 ```text
-Python         10 hrs              ██████░░░░     62.46%
-Kaggle         5 hrs 37 mins       ███░░░░░░░     35.13%
-Text           23 mins             ░░░░░░░░░░     2.41%
+Python         7 hrs 49 mins       █████░░░░░     59.51%
+Kaggle         5 hrs 8 mins        ███░░░░░░░     39.06%
+Text           11 mins             ░░░░░░░░░░     1.44%
 ```
 
 
