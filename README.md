@@ -1,6 +1,6 @@
 
-<h1>Ahoj. I'm Kirill & I ❤️ code.</h1>
-<h4>Currently i work at private orders but i always open for cooperation | Read me: <a href="https://twitter.com/kiryssha">Twitter <img src="https://camo.githubusercontent.com/9bbddae7e626bda73c943e06b4568a7a02e193b4/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f747769747465722e737667" width="10"></a></h4>
+<h1>Tervist. I'm Kirill & I ❤️ code.</h1>
+<h4>Currently i work at private orders but i always open for cooperation | Buy me a coffee: <a href="https://ko-fi.com/susboy">Ko-fi <img src="https://camo.githubusercontent.com/0671999cc88d1011a0de68cd040029b995edfaa9/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6b6f2d66692e737667" width="10"></a></h4>
 <h5>⏰ 25 Monday, 12:00 | Latest follower – <a href="https://github.com/AmirhoseinHesami/" target="_blank">Amirhosein Hesami</a>👋</h5>
 <hr>
 <h2>📝 Statistics: </h2>
@@ -30,9 +30,9 @@
 
 
 ```text
-Python         9 hrs 19 mins       ███████░░░     78.77%
-Kaggle         1 hr 55 mins        █░░░░░░░░░     16.3%
-CSS            16 mins             ░░░░░░░░░░     2.3%
+Python         10 hrs 53 mins      ███████░░░     77.7%
+Kaggle         2 hrs 32 mins       █░░░░░░░░░     18.07%
+CSS            16 mins             ░░░░░░░░░░     1.94%
 ```
 
 
