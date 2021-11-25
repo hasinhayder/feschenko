@@ -1,5 +1,5 @@
 
-<h1>你好. I'm Kirill & I ❤️ code.</h1>
+<h1>Aloha. I'm Kirill & I ❤️ code.</h1>
 <h4>Currently i work at private orders but i always open for cooperation | Read me: <a href="https://twitter.com/kiryssha">Twitter <img src="https://camo.githubusercontent.com/9bbddae7e626bda73c943e06b4568a7a02e193b4/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f747769747465722e737667" width="10"></a></h4>
 <h5>⏰ 26 Friday, 12:00 | Latest follower – <a href="https://github.com/wwwAlireza/" target="_blank">alireza m</a>👋</h5>
 <hr>
@@ -30,9 +30,9 @@
 
 
 ```text
-Python         9 hrs 28 mins       ███████░░░     77.58%
-Kaggle         1 hr 43 mins        █░░░░░░░░░     14.11%
-JavaScript     37 mins             ░░░░░░░░░░     5.06%
+Python         10 hrs 26 mins      ████████░░     80.0%
+Kaggle         2 hrs 28 mins       █░░░░░░░░░     19.02%
+JSON           6 mins              ░░░░░░░░░░     0.82%
 ```
 
 
