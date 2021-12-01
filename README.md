@@ -1,15 +1,15 @@
 
-<h1>God dag. I'm Kirill & I ❤️ code.</h1>
-<h4>Currently i work at private orders but i always open for cooperation | Write to me: <a href="https://t.me/kirillfeschenko">Telegram <img src="https://camo.githubusercontent.com/5c1975da7d9ab735ceb71c57b6c7e48ff3e08ca4/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f74656c656772616d2e737667" width="10"></a></h4>
-<h5>⏰ 26 Friday, 09:23 | Latest follower – <a href="https://github.com/wwwAlireza/" target="_blank">alireza m</a>👋</h5>
+<h1>Bonjour. I'm Kirill & I ❤️ code.</h1>
+<h4>Currently i work at private orders but i always open for cooperation | Buy me a coffee: <a href="https://ko-fi.com/susboy">Ko-fi <img src="https://camo.githubusercontent.com/0671999cc88d1011a0de68cd040029b995edfaa9/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6b6f2d66692e737667" width="10"></a></h4>
+<h5>⏰ 01 Wednesday, 03:19 | Latest follower – <a href="https://github.com/wwwAlireza/" target="_blank">alireza m</a>👋</h5>
 <hr>
 <h2>📝 Statistics: </h2>
 <table>
   <tr>
     <td valign="top">
       <h3>Most starred repos: </h3>
-            <h6>⭐️&nbsp;&nbsp;&nbsp;18&nbsp;&nbsp;|&nbsp;&nbsp;👁&nbsp;&nbsp;&nbsp;163 – <a href='https://github.com/feschenko/spotify-to-vk'>spotify-to-vk</a></h6> 
-      <h6>⭐️&nbsp;&nbsp;&nbsp;15&nbsp;&nbsp;|&nbsp;&nbsp;👁&nbsp;&nbsp;&nbsp;10 – <a href='https://github.com/feschenko/voicy'>voicy</a></h6> 
+            <h6>⭐️&nbsp;&nbsp;&nbsp;18&nbsp;&nbsp;|&nbsp;&nbsp;👁&nbsp;&nbsp;&nbsp;222 – <a href='https://github.com/feschenko/spotify-to-vk'>spotify-to-vk</a></h6> 
+      <h6>⭐️&nbsp;&nbsp;&nbsp;15&nbsp;&nbsp;|&nbsp;&nbsp;👁&nbsp;&nbsp;&nbsp;12 – <a href='https://github.com/feschenko/voicy'>voicy</a></h6> 
       <h6>⭐️&nbsp;&nbsp;&nbsp;8&nbsp;&nbsp;|&nbsp;&nbsp;👁&nbsp;&nbsp;&nbsp;668 – <a href='https://github.com/feschenko/feschenko'>feschenko</a></h6> 
     </td>
     <td valign="top">
@@ -22,7 +22,7 @@
       <h3>New repositories: </h3>
            <h6>⭐️&nbsp;&nbsp;&nbsp;0&nbsp;&nbsp;|&nbsp;&nbsp;👁&nbsp;&nbsp;&nbsp;1 – <a href='https://github.com/feschenko/DALL-E'>DALL-E</a></h6> 
       <h6>⭐️&nbsp;&nbsp;&nbsp;0&nbsp;&nbsp;|&nbsp;&nbsp;👁&nbsp;&nbsp;&nbsp;0 – <a href='https://github.com/feschenko/StableViewSynthesis'>StableViewSynthesis</a></h6> 
-      <h6>⭐️&nbsp;&nbsp;&nbsp;15&nbsp;&nbsp;|&nbsp;&nbsp;👁&nbsp;&nbsp;&nbsp;10 – <a href='https://github.com/feschenko/voicy'>voicy</a></h6> 
+      <h6>⭐️&nbsp;&nbsp;&nbsp;15&nbsp;&nbsp;|&nbsp;&nbsp;👁&nbsp;&nbsp;&nbsp;12 – <a href='https://github.com/feschenko/voicy'>voicy</a></h6> 
         </td>
   </tr>
 </table>
@@ -30,9 +30,9 @@
 
 
 ```text
-Python         10 hrs 26 mins      ████████░░     80.0%
-Kaggle         2 hrs 28 mins       █░░░░░░░░░     19.02%
-JSON           6 mins              ░░░░░░░░░░     0.82%
+Python         12 hrs 56 mins      ████████░░     86.11%
+Kaggle         1 hr 56 mins        █░░░░░░░░░     12.91%
+JSON           7 mins              ░░░░░░░░░░     0.84%
 ```
 
 
