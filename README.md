@@ -30,9 +30,9 @@
 
 
 ```text
-Python         5 hrs 26 mins       ███████░░░     74.98%
-Kaggle         1 hr 48 mins        ██░░░░░░░░     24.91%
-Text           0 secs              ░░░░░░░░░░     0.07%
+Python         3 hrs 8 mins        ██████░░░░     62.04%
+Kaggle         1 hr 55 mins        ███░░░░░░░     37.77%
+Text           0 secs              ░░░░░░░░░░     0.1%
 ```
 
 
