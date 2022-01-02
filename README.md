@@ -1,7 +1,6 @@
 
-<h1>Hallo. I'm Kirill & I ❤️ code.</h1>
+<h1>Hello. I'm Kirill & I ❤️ code.</h1>
 <h4>Currently i work at private orders but i always open for cooperation | Buy me a coffee: <a href="https://ko-fi.com/susboy">Ko-fi <img src="https://camo.githubusercontent.com/0671999cc88d1011a0de68cd040029b995edfaa9/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6b6f2d66692e737667" width="10"></a></h4>
-<h5>⏰ 25 Saturday, 03:39 | Latest follower – <a href="https://github.com/wwwAlireza/" target="_blank">alireza m</a>👋</h5>
 <hr>
 <h2>📝 Statistics: </h2>
 <table>
@@ -26,17 +25,5 @@
         </td>
   </tr>
 </table>
-<h2>📊 Weekly development breakdown: </h2>
 
-
-```text
-Python         6 hrs 26 mins       ██████░░░░     61.56%
-Kaggle         3 hrs 55 mins       ███░░░░░░░     37.5%
-CSV            3 mins              ░░░░░░░░░░     0.56%
-```
-
-
-
-<hr>
-<h4 align="center">Other – <a href='http://feschenko.org' target="_blank">feschenko.org</a><h4>
     
