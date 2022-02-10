@@ -8,9 +8,9 @@
   <tr>
     <td valign="top">
       <h3>Most starred repos: </h3>
-            <h6>⭐️&nbsp;&nbsp;&nbsp;24&nbsp;&nbsp;|&nbsp;&nbsp;👁&nbsp;&nbsp;&nbsp;219 – <a href='https://github.com/feschenko/spotify-to-vk'>spotify-to-vk</a></h6> 
+            <h6>⭐️&nbsp;&nbsp;&nbsp;24&nbsp;&nbsp;|&nbsp;&nbsp;👁&nbsp;&nbsp;&nbsp;239 – <a href='https://github.com/feschenko/spotify-to-vk'>spotify-to-vk</a></h6> 
       <h6>⭐️&nbsp;&nbsp;&nbsp;15&nbsp;&nbsp;|&nbsp;&nbsp;👁&nbsp;&nbsp;&nbsp;38 – <a href='https://github.com/feschenko/voicy'>voicy</a></h6> 
-      <h6>⭐️&nbsp;&nbsp;&nbsp;10&nbsp;&nbsp;|&nbsp;&nbsp;👁&nbsp;&nbsp;&nbsp;1225 – <a href='https://github.com/feschenko/feschenko'>feschenko</a></h6> 
+      <h6>⭐️&nbsp;&nbsp;&nbsp;10&nbsp;&nbsp;|&nbsp;&nbsp;👁&nbsp;&nbsp;&nbsp;1323 – <a href='https://github.com/feschenko/feschenko'>feschenko</a></h6> 
     </td>
     <td valign="top">
       <h3>My stack: </h3>
