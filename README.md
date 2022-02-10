@@ -8,7 +8,7 @@
   <tr>
     <td valign="top">
       <h3>Most starred repos: </h3>
-            <h6>⭐️&nbsp;&nbsp;&nbsp;24&nbsp;&nbsp;|&nbsp;&nbsp;👁&nbsp;&nbsp;&nbsp;244 – <a href='https://github.com/feschenko/spotify-to-vk'>spotify-to-vk</a></h6> 
+            <h6>⭐️&nbsp;&nbsp;&nbsp;24&nbsp;&nbsp;|&nbsp;&nbsp;👁&nbsp;&nbsp;&nbsp;224 – <a href='https://github.com/feschenko/spotify-to-vk'>spotify-to-vk</a></h6> 
       <h6>⭐️&nbsp;&nbsp;&nbsp;15&nbsp;&nbsp;|&nbsp;&nbsp;👁&nbsp;&nbsp;&nbsp;38 – <a href='https://github.com/feschenko/voicy'>voicy</a></h6> 
       <h6>⭐️&nbsp;&nbsp;&nbsp;10&nbsp;&nbsp;|&nbsp;&nbsp;👁&nbsp;&nbsp;&nbsp;1316 – <a href='https://github.com/feschenko/feschenko'>feschenko</a></h6> 
     </td>
