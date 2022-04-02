@@ -1,6 +1,6 @@
 
-<h1>Ola. I'm Kirill & I ❤️ code.</h1>
-<h4>Currently i work at private orders but i always open for cooperation | Write to me: <a href="https://t.me/kirillfeschenko">Telegram <img src="https://camo.githubusercontent.com/5c1975da7d9ab735ceb71c57b6c7e48ff3e08ca4/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f74656c656772616d2e737667" width="10"></a></h4>
+<h1>Aloha. I'm Kirill & I ❤️ code.</h1>
+<h4>Currently i work at private orders but i always open for cooperation | Read me: <a href="https://twitter.com/kiryssha">Twitter <img src="https://camo.githubusercontent.com/9bbddae7e626bda73c943e06b4568a7a02e193b4/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f747769747465722e737667" width="10"></a></h4>
 <h5>⏰ 03 Sunday, 12:37 | Latest follower – <a href="https://github.com/Vhellsamkov/" target="_blank">Vhellsamkov</a>👋</h5>
 <hr>
 <h2>📝 Statistics: </h2>
@@ -30,9 +30,9 @@
 
 
 ```text
-Python         5 hrs 59 mins       █████░░░░░     58.7%
-Kaggle         3 hrs 10 mins       ███░░░░░░░     31.0%
-JSON           48 mins             ░░░░░░░░░░     7.99%
+Python         6 hrs 33 mins       █████░░░░░     55.59%
+Kaggle         3 hrs 17 mins       ██░░░░░░░░     27.85%
+JSON           48 mins             ░░░░░░░░░░     6.92%
 ```
 
 
