@@ -1,7 +1,7 @@
 
-<h1>Aloha. I'm Kirill & I ❤️ code.</h1>
-<h4>Currently i work at private orders but i always open for cooperation | Write to me: <a href="https://t.me/kirillfeschenko">Telegram <img src="https://camo.githubusercontent.com/5c1975da7d9ab735ceb71c57b6c7e48ff3e08ca4/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f74656c656772616d2e737667" width="10"></a></h4>
-<h5>⏰ 06 Monday, 11:59 | Latest follower – <a href="https://github.com/Vhellsamkov/" target="_blank">Vhellsamkov</a>👋</h5>
+<h1>Ahoj. I'm Kirill & I ❤️ code.</h1>
+<h4>Currently i work at private orders but i always open for cooperation | Buy me a coffee: <a href="https://ko-fi.com/susboy">Ko-fi <img src="https://camo.githubusercontent.com/0671999cc88d1011a0de68cd040029b995edfaa9/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6b6f2d66692e737667" width="10"></a></h4>
+<h5>⏰ 07 Tuesday, 12:00 | Latest follower – <a href="https://github.com/Vhellsamkov/" target="_blank">Vhellsamkov</a>👋</h5>
 <hr>
 <h2>📝 Statistics: </h2>
 <table>
@@ -10,7 +10,7 @@
       <h3>Most starred repos: </h3>
             <h6>⭐️&nbsp;&nbsp;&nbsp;27&nbsp;&nbsp;|&nbsp;&nbsp;👁&nbsp;&nbsp;&nbsp;119 – <a href='https://github.com/feschenko/spotify-to-vk'>spotify-to-vk</a></h6> 
       <h6>⭐️&nbsp;&nbsp;&nbsp;16&nbsp;&nbsp;|&nbsp;&nbsp;👁&nbsp;&nbsp;&nbsp;40 – <a href='https://github.com/feschenko/voicy'>voicy</a></h6> 
-      <h6>⭐️&nbsp;&nbsp;&nbsp;13&nbsp;&nbsp;|&nbsp;&nbsp;👁&nbsp;&nbsp;&nbsp;982 – <a href='https://github.com/feschenko/feschenko'>feschenko</a></h6> 
+      <h6>⭐️&nbsp;&nbsp;&nbsp;13&nbsp;&nbsp;|&nbsp;&nbsp;👁&nbsp;&nbsp;&nbsp;974 – <a href='https://github.com/feschenko/feschenko'>feschenko</a></h6> 
     </td>
     <td valign="top">
       <h3>My stack: </h3>
@@ -30,9 +30,9 @@
 
 
 ```text
-Python         7 hrs 43 mins       ████████░░     89.52%
-JSON           22 mins             ░░░░░░░░░░     4.36%
-requirements.txt12 mins             ░░░░░░░░░░     2.45%
+Python         6 hrs 20 mins       █████████░     92.61%
+requirements.txt12 mins             ░░░░░░░░░░     3.09%
+JSON           11 mins             ░░░░░░░░░░     2.71%
 ```
 
 
