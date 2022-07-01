@@ -1,7 +1,7 @@
 
-<h1>Hallo. I'm Kirill & I ❤️ code.</h1>
-<h4>Currently i work at private orders but i always open for cooperation | Read me: <a href="https://twitter.com/kiryssha">Twitter <img src="https://camo.githubusercontent.com/9bbddae7e626bda73c943e06b4568a7a02e193b4/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f747769747465722e737667" width="10"></a></h4>
-<h5>⏰ 28 Tuesday, 11:38 | Latest follower – <a href="https://github.com/elellacode/" target="_blank">Ella</a>👋</h5>
+<h1>Namaste. I'm Kirill & I ❤️ code.</h1>
+<h4>Currently i work at private orders but i always open for cooperation | Buy me a coffee: <a href="https://ko-fi.com/susboy">Ko-fi <img src="https://camo.githubusercontent.com/0671999cc88d1011a0de68cd040029b995edfaa9/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6b6f2d66692e737667" width="10"></a></h4>
+<h5>⏰ 01 Friday, 03:12 | Latest follower – <a href="https://github.com/elellacode/" target="_blank">Ella</a>👋</h5>
 <hr>
 <h2>📝 Statistics: </h2>
 <table>
@@ -9,8 +9,8 @@
     <td valign="top">
       <h3>Most starred repos: </h3>
             <h6>⭐️&nbsp;&nbsp;&nbsp;28&nbsp;&nbsp;|&nbsp;&nbsp;👁&nbsp;&nbsp;&nbsp;27 – <a href='https://github.com/feschenko/spotify-to-vk'>spotify-to-vk</a></h6> 
-      <h6>⭐️&nbsp;&nbsp;&nbsp;17&nbsp;&nbsp;|&nbsp;&nbsp;👁&nbsp;&nbsp;&nbsp;27 – <a href='https://github.com/feschenko/voicy'>voicy</a></h6> 
-      <h6>⭐️&nbsp;&nbsp;&nbsp;15&nbsp;&nbsp;|&nbsp;&nbsp;👁&nbsp;&nbsp;&nbsp;1091 – <a href='https://github.com/feschenko/feschenko'>feschenko</a></h6> 
+      <h6>⭐️&nbsp;&nbsp;&nbsp;17&nbsp;&nbsp;|&nbsp;&nbsp;👁&nbsp;&nbsp;&nbsp;30 – <a href='https://github.com/feschenko/voicy'>voicy</a></h6> 
+      <h6>⭐️&nbsp;&nbsp;&nbsp;15&nbsp;&nbsp;|&nbsp;&nbsp;👁&nbsp;&nbsp;&nbsp;1109 – <a href='https://github.com/feschenko/feschenko'>feschenko</a></h6> 
     </td>
     <td valign="top">
       <h3>My stack: </h3>
@@ -20,9 +20,9 @@
       </td>
      <td valign="top">
       <h3>New repositories: </h3>
-           <h6>⭐️&nbsp;&nbsp;&nbsp;0&nbsp;&nbsp;|&nbsp;&nbsp;👁&nbsp;&nbsp;&nbsp;13 – <a href='https://github.com/feschenko/DALL-E'>DALL-E</a></h6> 
+           <h6>⭐️&nbsp;&nbsp;&nbsp;0&nbsp;&nbsp;|&nbsp;&nbsp;👁&nbsp;&nbsp;&nbsp;12 – <a href='https://github.com/feschenko/DALL-E'>DALL-E</a></h6> 
       <h6>⭐️&nbsp;&nbsp;&nbsp;0&nbsp;&nbsp;|&nbsp;&nbsp;👁&nbsp;&nbsp;&nbsp;0 – <a href='https://github.com/feschenko/StableViewSynthesis'>StableViewSynthesis</a></h6> 
-      <h6>⭐️&nbsp;&nbsp;&nbsp;17&nbsp;&nbsp;|&nbsp;&nbsp;👁&nbsp;&nbsp;&nbsp;27 – <a href='https://github.com/feschenko/voicy'>voicy</a></h6> 
+      <h6>⭐️&nbsp;&nbsp;&nbsp;17&nbsp;&nbsp;|&nbsp;&nbsp;👁&nbsp;&nbsp;&nbsp;30 – <a href='https://github.com/feschenko/voicy'>voicy</a></h6> 
         </td>
   </tr>
 </table>
@@ -30,9 +30,9 @@
 
 
 ```text
-Python         7 hrs 50 mins       █████░░░░░     56.19%
-Kaggle         4 hrs 32 mins       ███░░░░░░░     32.53%
-JSON           1 hr 16 mins        ░░░░░░░░░░     9.17%
+Python         6 hrs 40 mins       █████░░░░░     58.25%
+Kaggle         3 hrs 12 mins       ██░░░░░░░░     28.02%
+JSON           1 hr 20 mins        █░░░░░░░░░     11.79%
 ```
 
 
