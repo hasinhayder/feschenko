@@ -1,5 +1,5 @@
 
-<h1>Namaste. I'm Kirill & I ❤️ code.</h1>
+<h1>Hey. I'm Kirill & I ❤️ code.</h1>
 <h4>Currently i work at private orders but i always open for cooperation | Buy me a coffee: <a href="https://ko-fi.com/susboy">Ko-fi <img src="https://camo.githubusercontent.com/0671999cc88d1011a0de68cd040029b995edfaa9/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6b6f2d66692e737667" width="10"></a></h4>
 <h5>⏰ 14 Thursday, 12:00 | Latest follower – <a href="https://github.com/Vhellsamkov/" target="_blank">Vhellsamkov</a>👋</h5>
 <hr>
@@ -30,9 +30,9 @@
 
 
 ```text
-Python         8 hrs 51 mins       ███████░░░     73.41%
-Kaggle         2 hrs 38 mins       ██░░░░░░░░     21.93%
-Text           24 mins             ░░░░░░░░░░     3.35%
+Python         9 hrs 10 mins       ███████░░░     70.68%
+Kaggle         2 hrs 56 mins       ██░░░░░░░░     22.68%
+Text           26 mins             ░░░░░░░░░░     3.42%
 ```
 
 
