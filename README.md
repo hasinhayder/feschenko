@@ -10,7 +10,7 @@
       <h3>Most starred repos: </h3>
             <h6>⭐️&nbsp;&nbsp;&nbsp;28&nbsp;&nbsp;|&nbsp;&nbsp;👁&nbsp;&nbsp;&nbsp;103 – <a href='https://github.com/feschenko/spotify-to-vk'>spotify-to-vk</a></h6> 
       <h6>⭐️&nbsp;&nbsp;&nbsp;17&nbsp;&nbsp;|&nbsp;&nbsp;👁&nbsp;&nbsp;&nbsp;33 – <a href='https://github.com/feschenko/voicy'>voicy</a></h6> 
-      <h6>⭐️&nbsp;&nbsp;&nbsp;16&nbsp;&nbsp;|&nbsp;&nbsp;👁&nbsp;&nbsp;&nbsp;1289 – <a href='https://github.com/feschenko/feschenko'>feschenko</a></h6> 
+      <h6>⭐️&nbsp;&nbsp;&nbsp;16&nbsp;&nbsp;|&nbsp;&nbsp;👁&nbsp;&nbsp;&nbsp;1292 – <a href='https://github.com/feschenko/feschenko'>feschenko</a></h6> 
     </td>
     <td valign="top">
       <h3>My stack: </h3>
